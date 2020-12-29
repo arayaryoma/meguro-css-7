@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "fusuma build",
-    "deploy": "./deploy"
+    "deploy": "fusuma deploy"
   },
   "devDependencies": {
     "fusuma": "^1.15.0"
